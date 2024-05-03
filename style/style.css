@@ -1,0 +1,19 @@
+body{
+    background-color: #010101;
+}
+
+.carousel-item img{
+    filter: brightness(1) contrast(1.2);
+}
+
+.content {
+    display: flex;
+}
+
+.description {
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 21px;
+    padding: 10px;
+}
